@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Bot_Arena_contol-rescue")(type "Legacy")(uri "${KIPRJMOD}/Bot_Arena_contol-rescue.lib")(options "")(descr ""))
+)
